@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine's Day Message Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+</head>
+<body>
+    <div class="landing-section">
+        <div class="valentine-card">
+            <h1>feliz san valentin 💝</h1>
+            <p class="love-message">nuestro amor x whatsapp desde el 2020</p>
+            
+            <div class="explanation-section">
+                <h3>💕</h3>
+                <div class="features-list">
+                    <div class="feature-item">
+                        <span class="feature-icon">🎨</span>
+                        <p>The <strong>flowing particles</strong> represent people we texted about, with colors matching the legend below</p>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">💬</span>
+                        <p>The <strong>chat section</strong> shows our most used emojis and special words for each month</p>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">🖱️</span>
+                        <p><strong>Click anywhere</strong> on the canvas to change the flow pattern!</p>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">📅</span>
+                        <p>Use the <strong>month selector</strong> to jump to any month of our journey</p>
+                    </div>
+                </div>
+            </div>
+            
+            <button class="begin-button" onclick="scrollToVisualization()">Begin</button>
+        </div>
+    </div>
+
+    <div id="app-container">
+        <!-- Left Section: Canvas and Legend -->
+        <div class="visualization-section">
+            <div class="month-title">
+                <h2 id="current-month"></h2>
+                <select id="month-selector" class="month-dropdown">
+                    <!-- Options will be populated by JavaScript -->
+                </select>
+            </div>
+            <div class="canvas-wrapper">
+                <div id="canvas-container"></div>
+            </div>
+            <div id="people-legend" class="people-legend">
+                <!-- People legend will be dynamically added here -->
+            </div>
+        </div>
+        
+        <!-- Right Section: Chat Messages -->
+        <div class="chat-container">
+            <div class="chat-header">
+                <h3>Our Conversation</h3>
+            </div>
+            <div class="chat-messages" id="chat-messages">
+                <!-- Messages will be dynamically added here -->
+            </div>
+        </div>
+    </div>
+    <script src="sketch.js"></script>
+    <script>
+        function scrollToVisualization() {
+            document.getElementById('app-container').scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    </script>
+</body>
+</html> 

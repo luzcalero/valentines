@@ -1,0 +1,1734 @@
+{
+  "2020-10": {
+    "mora_mentions": 1,
+    "besito_count": 0,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 12,
+        "❤": 2,
+        "😡": 2
+      },
+      "andrea": {
+        "🥺": 1,
+        "🙏": 1,
+        "🏽": 1
+      },
+      "total": {
+        "🥺": 13,
+        "❤": 2,
+        "😡": 2
+      }
+    },
+    "people_mentions": {
+      "alex": 1
+    },
+    "special_words": {
+      "fronfis": 1,
+      "guchta": 3,
+      "proc": 1,
+      "stroc": 1
+    }
+  },
+  "2020-11": {
+    "mora_mentions": 6,
+    "besito_count": 4,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 19,
+        "❤": 2,
+        "💖": 1
+      },
+      "andrea": {
+        "🥺": 13,
+        "😍": 9,
+        "😛": 5
+      },
+      "total": {
+        "🥺": 32,
+        "😍": 9,
+        "😛": 5
+      }
+    },
+    "people_mentions": {
+      "mariela": 3,
+      "pipia": 1,
+      "hayes": 1,
+      "emily": 1,
+      "gabo": 1
+    },
+    "special_words": {
+      "guchta": 2,
+      "fronfis": 1
+    }
+  },
+  "2020-12": {
+    "mora_mentions": 30,
+    "besito_count": 1,
+    "missing_expressions": 15,
+    "top_emojis": {
+      "luz": {
+        "🥺": 380,
+        "😭": 81,
+        "🥰": 29
+      },
+      "andrea": {
+        "🥺": 89,
+        "😍": 47,
+        "😭": 30
+      },
+      "total": {
+        "🥺": 469,
+        "😭": 111,
+        "😍": 47
+      }
+    },
+    "people_mentions": {
+      "parents": 27,
+      "feli": 7,
+      "jaime": 4,
+      "gabo": 3,
+      "isa": 2
+    },
+    "special_words": {
+      "guchta": 3,
+      "beba": 2
+    }
+  },
+  "2021-01": {
+    "mora_mentions": 53,
+    "besito_count": 1,
+    "missing_expressions": 13,
+    "top_emojis": {
+      "luz": {
+        "🥺": 356,
+        "🥰": 81,
+        "😭": 74
+      },
+      "andrea": {
+        "🥺": 195,
+        "😍": 121,
+        "😭": 78
+      },
+      "total": {
+        "🥺": 551,
+        "😭": 152,
+        "😍": 121
+      }
+    },
+    "people_mentions": {
+      "parents": 24,
+      "isa": 5,
+      "gabo": 5,
+      "mariela": 3,
+      "feli": 3
+    },
+    "special_words": {
+      "guchta": 8,
+      "proc": 1
+    }
+  },
+  "2021-02": {
+    "mora_mentions": 64,
+    "besito_count": 0,
+    "missing_expressions": 12,
+    "top_emojis": {
+      "luz": {
+        "🥺": 210,
+        "😭": 208,
+        "❤": 15
+      },
+      "andrea": {
+        "🥺": 85,
+        "😭": 42,
+        "♥": 16
+      },
+      "total": {
+        "🥺": 295,
+        "😭": 250,
+        "😢": 23
+      }
+    },
+    "people_mentions": {
+      "mariela": 6,
+      "emily": 5,
+      "parents": 4,
+      "leslie": 3,
+      "isa": 2
+    },
+    "special_words": {
+      "guchta": 7,
+      "beba": 17,
+      "proc": 1
+    }
+  },
+  "2021-03": {
+    "mora_mentions": 39,
+    "besito_count": 4,
+    "missing_expressions": 13,
+    "top_emojis": {
+      "luz": {
+        "🥺": 171,
+        "😭": 89,
+        "💖": 25
+      },
+      "andrea": {
+        "🥺": 64,
+        "😭": 58,
+        "😍": 44
+      },
+      "total": {
+        "🥺": 235,
+        "😭": 147,
+        "😍": 44
+      }
+    },
+    "people_mentions": {
+      "leslie": 12,
+      "mariela": 11,
+      "sara": 4,
+      "isa": 3,
+      "emily": 3
+    },
+    "special_words": {
+      "guchta": 16,
+      "beba": 11
+    }
+  },
+  "2021-04": {
+    "mora_mentions": 36,
+    "besito_count": 1,
+    "missing_expressions": 16,
+    "top_emojis": {
+      "luz": {
+        "🥺": 529,
+        "😭": 93,
+        "💖": 72
+      },
+      "andrea": {
+        "🥺": 149,
+        "♥": 29,
+        "😍": 24
+      },
+      "total": {
+        "🥺": 678,
+        "😭": 112,
+        "💖": 72
+      }
+    },
+    "people_mentions": {
+      "parents": 7,
+      "sara": 6,
+      "emily": 5,
+      "isa": 5,
+      "leslie": 4
+    },
+    "special_words": {
+      "beba": 18,
+      "guchta": 12,
+      "proc": 1
+    }
+  },
+  "2021-05": {
+    "mora_mentions": 46,
+    "besito_count": 1,
+    "missing_expressions": 18,
+    "top_emojis": {
+      "luz": {
+        "🥺": 362,
+        "😭": 72,
+        "😩": 40
+      },
+      "andrea": {
+        "🥺": 94,
+        "😍": 22,
+        "😚": 17
+      },
+      "total": {
+        "🥺": 456,
+        "😭": 85,
+        "😩": 40
+      }
+    },
+    "people_mentions": {
+      "parents": 17,
+      "emily": 12,
+      "sara": 10,
+      "gabo": 9,
+      "mariela": 8
+    },
+    "special_words": {
+      "guchta": 16,
+      "beba": 2,
+      "proc": 2
+    }
+  },
+  "2021-06": {
+    "mora_mentions": 6,
+    "besito_count": 2,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 43,
+        "😭": 7,
+        "💖": 4
+      },
+      "andrea": {
+        "🥺": 38,
+        "♥": 12,
+        "😘": 8
+      },
+      "total": {
+        "🥺": 81,
+        "♥": 12,
+        "😘": 8
+      }
+    },
+    "people_mentions": {
+      "feli": 11,
+      "sara": 10,
+      "gabo": 10,
+      "mariela": 4,
+      "leslie": 3
+    },
+    "special_words": {
+      "beba": 1,
+      "guchta": 2
+    }
+  },
+  "2021-07": {
+    "mora_mentions": 1,
+    "besito_count": 1,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 30,
+        "😭": 10,
+        "❤": 9
+      },
+      "andrea": {
+        "🥺": 19,
+        "😍": 11,
+        "💗": 10
+      },
+      "total": {
+        "🥺": 49,
+        "😭": 12,
+        "❤": 12
+      }
+    },
+    "people_mentions": {
+      "sara": 5,
+      "leslie": 2,
+      "hayes": 2,
+      "gabo": 1,
+      "parents": 1
+    },
+    "special_words": {
+      "guchta": 3
+    }
+  },
+  "2021-08": {
+    "mora_mentions": 44,
+    "besito_count": 6,
+    "missing_expressions": 27,
+    "top_emojis": {
+      "luz": {
+        "🥺": 227,
+        "😭": 110,
+        "❤": 35
+      },
+      "andrea": {
+        "🥺": 136,
+        "😍": 21,
+        "💗": 19
+      },
+      "total": {
+        "🥺": 363,
+        "😭": 127,
+        "❤": 49
+      }
+    },
+    "people_mentions": {
+      "parents": 14,
+      "mariela": 11,
+      "gabo": 10,
+      "sara": 4,
+      "jaime": 2
+    },
+    "special_words": {
+      "guchta": 7,
+      "proc": 7,
+      "beba": 2
+    }
+  },
+  "2021-09": {
+    "mora_mentions": 23,
+    "besito_count": 2,
+    "missing_expressions": 5,
+    "top_emojis": {
+      "luz": {
+        "😭": 49,
+        "🥺": 40,
+        "💕": 11
+      },
+      "andrea": {
+        "🥺": 39,
+        "😬": 7,
+        "😭": 7
+      },
+      "total": {
+        "🥺": 79,
+        "😭": 56,
+        "❤": 11
+      }
+    },
+    "people_mentions": {
+      "sara": 10,
+      "leslie": 5,
+      "emily": 4,
+      "marie": 1,
+      "parents": 1
+    },
+    "special_words": {
+      "guchta": 6,
+      "beba": 1
+    }
+  },
+  "2021-10": {
+    "mora_mentions": 4,
+    "besito_count": 10,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 20,
+        "😭": 16,
+        "💕": 13
+      },
+      "andrea": {
+        "🥺": 29,
+        "😍": 5,
+        "😘": 4
+      },
+      "total": {
+        "🥺": 49,
+        "😭": 18,
+        "💕": 13
+      }
+    },
+    "people_mentions": {
+      "sara": 10,
+      "leslie": 2,
+      "hayes": 2,
+      "gabo": 1,
+      "parents": 1
+    },
+    "special_words": {}
+  },
+  "2021-11": {
+    "mora_mentions": 10,
+    "besito_count": 3,
+    "missing_expressions": 35,
+    "top_emojis": {
+      "luz": {
+        "🥺": 145,
+        "💕": 77,
+        "❤": 43
+      },
+      "andrea": {
+        "🥺": 68,
+        "💗": 13,
+        "😭": 11
+      },
+      "total": {
+        "🥺": 213,
+        "💕": 77,
+        "😭": 49
+      }
+    },
+    "people_mentions": {
+      "parents": 11,
+      "gabo": 11,
+      "leslie": 8,
+      "marie": 3,
+      "alex": 3
+    },
+    "special_words": {
+      "guchta": 6,
+      "beba": 7,
+      "proc": 8
+    }
+  },
+  "2021-12": {
+    "mora_mentions": 2,
+    "besito_count": 7,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 35,
+        "💖": 5,
+        "❤": 5
+      },
+      "andrea": {
+        "🥺": 14,
+        "😭": 6,
+        "😘": 6
+      },
+      "total": {
+        "🥺": 49,
+        "😭": 10,
+        "😘": 6
+      }
+    },
+    "people_mentions": {
+      "leslie": 2,
+      "ana_valeria": 2,
+      "stacy": 1,
+      "sara": 1,
+      "isa": 1
+    },
+    "special_words": {
+      "beba": 3
+    }
+  },
+  "2022-01": {
+    "mora_mentions": 5,
+    "besito_count": 0,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 13,
+        "👁": 2,
+        "❤": 1
+      },
+      "andrea": {
+        "🥺": 8,
+        "😭": 5,
+        "💗": 4
+      },
+      "total": {
+        "🥺": 21,
+        "😭": 6,
+        "💗": 4
+      }
+    },
+    "people_mentions": {
+      "sara": 6,
+      "parents": 4,
+      "marie": 1,
+      "pau": 1,
+      "emily": 1
+    },
+    "special_words": {
+      "beba": 5
+    }
+  },
+  "2022-02": {
+    "mora_mentions": 14,
+    "besito_count": 1,
+    "missing_expressions": 22,
+    "top_emojis": {
+      "luz": {
+        "🥺": 40,
+        "💛": 8,
+        "❤": 7
+      },
+      "andrea": {
+        "🥺": 71,
+        "💗": 39,
+        "♥": 38
+      },
+      "total": {
+        "🥺": 111,
+        "💗": 39,
+        "♥": 38
+      }
+    },
+    "people_mentions": {
+      "sara": 22,
+      "parents": 11,
+      "leslie": 7,
+      "marie": 6,
+      "marianna": 2
+    },
+    "special_words": {
+      "beba": 46,
+      "guchta": 3,
+      "proc": 2
+    }
+  },
+  "2022-03": {
+    "mora_mentions": 11,
+    "besito_count": 2,
+    "missing_expressions": 30,
+    "top_emojis": {
+      "luz": {
+        "🥺": 83,
+        "💛": 13,
+        "😭": 6
+      },
+      "andrea": {
+        "🥺": 72,
+        "💗": 37,
+        "😘": 27
+      },
+      "total": {
+        "🥺": 155,
+        "💗": 37,
+        "😘": 27
+      }
+    },
+    "people_mentions": {
+      "parents": 16,
+      "sara": 12,
+      "marie": 9,
+      "feli": 4,
+      "gabo": 3
+    },
+    "special_words": {
+      "beba": 27,
+      "guchta": 1,
+      "proc": 1
+    }
+  },
+  "2022-04": {
+    "mora_mentions": 4,
+    "besito_count": 2,
+    "missing_expressions": 12,
+    "top_emojis": {
+      "luz": {
+        "🥺": 30,
+        "💖": 17,
+        "🥰": 9
+      },
+      "andrea": {
+        "🥺": 39,
+        "😘": 19,
+        "💗": 13
+      },
+      "total": {
+        "🥺": 69,
+        "😘": 21,
+        "💖": 17
+      }
+    },
+    "people_mentions": {
+      "sara": 6,
+      "pipia": 3,
+      "leslie": 2,
+      "parents": 2,
+      "marie": 1
+    },
+    "special_words": {
+      "beba": 25,
+      "proc": 1
+    }
+  },
+  "2022-05": {
+    "mora_mentions": 3,
+    "besito_count": 3,
+    "missing_expressions": 4,
+    "top_emojis": {
+      "luz": {
+        "💖": 17,
+        "🥺": 6,
+        "😭": 3
+      },
+      "andrea": {
+        "😘": 4,
+        "🥺": 4,
+        "😂": 3
+      },
+      "total": {
+        "💖": 17,
+        "🥺": 10,
+        "😭": 5
+      }
+    },
+    "people_mentions": {
+      "isa": 6,
+      "sara": 5,
+      "parents": 2,
+      "alex": 2,
+      "marie": 1
+    },
+    "special_words": {
+      "beba": 13,
+      "proc": 1
+    }
+  },
+  "2022-06": {
+    "mora_mentions": 3,
+    "besito_count": 3,
+    "missing_expressions": 27,
+    "top_emojis": {
+      "luz": {
+        "🥺": 148,
+        "🥵": 29,
+        "😭": 28
+      },
+      "andrea": {
+        "🏼": 32,
+        "🫶": 29,
+        "🥺": 24
+      },
+      "total": {
+        "🥺": 172,
+        "😭": 45,
+        "🏼": 32
+      }
+    },
+    "people_mentions": {
+      "isa": 28,
+      "nara": 13,
+      "parents": 7,
+      "sara": 5,
+      "pau": 4
+    },
+    "special_words": {
+      "beba": 129,
+      "proc": 2,
+      "stroc": 1
+    }
+  },
+  "2022-07": {
+    "mora_mentions": 3,
+    "besito_count": 11,
+    "missing_expressions": 1,
+    "top_emojis": {
+      "luz": {
+        "🫶": 20,
+        "🏼": 18,
+        "🥺": 17
+      },
+      "andrea": {
+        "😘": 9,
+        "🥺": 7,
+        "🏼": 7
+      },
+      "total": {
+        "🫶": 26,
+        "🏼": 25,
+        "🥺": 24
+      }
+    },
+    "people_mentions": {
+      "isa": 35,
+      "sara": 11,
+      "parents": 5,
+      "leslie": 2,
+      "feli": 1
+    },
+    "special_words": {
+      "beba": 52,
+      "guchta": 2
+    }
+  },
+  "2022-08": {
+    "mora_mentions": 5,
+    "besito_count": 5,
+    "missing_expressions": 6,
+    "top_emojis": {
+      "luz": {
+        "🥺": 29,
+        "🫶": 10,
+        "🏼": 10
+      },
+      "andrea": {
+        "😛": 14,
+        "😘": 13,
+        "😂": 9
+      },
+      "total": {
+        "🥺": 33,
+        "😛": 14,
+        "🫶": 13
+      }
+    },
+    "people_mentions": {
+      "isa": 9,
+      "ana_valeria": 3,
+      "alex": 3,
+      "parents": 2,
+      "sara": 2
+    },
+    "special_words": {
+      "beba": 27,
+      "guchta": 7
+    }
+  },
+  "2022-09": {
+    "mora_mentions": 7,
+    "besito_count": 2,
+    "missing_expressions": 11,
+    "top_emojis": {
+      "luz": {
+        "🥺": 50,
+        "🫶": 24,
+        "🏼": 24
+      },
+      "andrea": {
+        "🥺": 21,
+        "😘": 10,
+        "😭": 10
+      },
+      "total": {
+        "🥺": 71,
+        "🫶": 25,
+        "🏼": 25
+      }
+    },
+    "people_mentions": {
+      "isa": 14,
+      "ana_valeria": 11,
+      "parents": 6,
+      "sara": 4,
+      "stacy": 4
+    },
+    "special_words": {
+      "beba": 75,
+      "proc": 1,
+      "guchta": 2
+    }
+  },
+  "2022-10": {
+    "mora_mentions": 8,
+    "besito_count": 7,
+    "missing_expressions": 1,
+    "top_emojis": {
+      "luz": {
+        "🫶": 10,
+        "🏼": 10,
+        "🥺": 9
+      },
+      "andrea": {
+        "🥺": 7,
+        "💜": 7,
+        "🥰": 5
+      },
+      "total": {
+        "🥺": 16,
+        "🏼": 14,
+        "🫶": 10
+      }
+    },
+    "people_mentions": {
+      "alex": 8,
+      "sara": 7,
+      "parents": 3,
+      "leslie": 2,
+      "miranda": 2
+    },
+    "special_words": {
+      "beba": 29
+    }
+  },
+  "2022-11": {
+    "mora_mentions": 12,
+    "besito_count": 3,
+    "missing_expressions": 17,
+    "top_emojis": {
+      "luz": {
+        "🥺": 37,
+        "🫶": 12,
+        "🏼": 12
+      },
+      "andrea": {
+        "🥺": 24,
+        "😍": 17,
+        "😭": 6
+      },
+      "total": {
+        "🥺": 61,
+        "😍": 18,
+        "🫶": 12
+      }
+    },
+    "people_mentions": {
+      "pipia": 8,
+      "alex": 4,
+      "leslie": 3,
+      "stacy": 3,
+      "pau": 2
+    },
+    "special_words": {
+      "beba": 29,
+      "guchta": 4
+    }
+  },
+  "2022-12": {
+    "mora_mentions": 5,
+    "besito_count": 5,
+    "missing_expressions": 16,
+    "top_emojis": {
+      "luz": {
+        "🥺": 40,
+        "😭": 7,
+        "🐣": 4
+      },
+      "andrea": {
+        "🥺": 12,
+        "🤎": 6,
+        "🥰": 6
+      },
+      "total": {
+        "🥺": 52,
+        "😭": 11,
+        "🤎": 6
+      }
+    },
+    "people_mentions": {
+      "isa": 17,
+      "parents": 15,
+      "pau": 5,
+      "gabo": 5,
+      "pipia": 3
+    },
+    "special_words": {
+      "beba": 31,
+      "guchta": 1,
+      "proc": 1
+    }
+  },
+  "2023-01": {
+    "mora_mentions": 3,
+    "besito_count": 3,
+    "missing_expressions": 14,
+    "top_emojis": {
+      "luz": {
+        "🥺": 75,
+        "💛": 30,
+        "❤": 15
+      },
+      "andrea": {
+        "♥": 26,
+        "🥺": 15,
+        "😍": 8
+      },
+      "total": {
+        "🥺": 90,
+        "💛": 30,
+        "♥": 26
+      }
+    },
+    "people_mentions": {
+      "parents": 22,
+      "pau": 11,
+      "gabo": 8,
+      "pipia": 8,
+      "leslie": 5
+    },
+    "special_words": {
+      "beba": 50
+    }
+  },
+  "2023-02": {
+    "mora_mentions": 1,
+    "besito_count": 5,
+    "missing_expressions": 5,
+    "top_emojis": {
+      "luz": {
+        "🥺": 19,
+        "❤": 3,
+        "🧸": 3
+      },
+      "andrea": {
+        "🥺": 7,
+        "😂": 3,
+        "🙏": 3
+      },
+      "total": {
+        "🥺": 26,
+        "🏼": 5,
+        "❤": 3
+      }
+    },
+    "people_mentions": {
+      "ana_valeria": 5,
+      "feli": 5,
+      "stacy": 4,
+      "isa": 3,
+      "sara": 2
+    },
+    "special_words": {
+      "beba": 23
+    }
+  },
+  "2023-03": {
+    "mora_mentions": 10,
+    "besito_count": 1,
+    "missing_expressions": 6,
+    "top_emojis": {
+      "luz": {
+        "🥺": 56,
+        "💛": 11,
+        "💌": 11
+      },
+      "andrea": {
+        "🥺": 22,
+        "♥": 9,
+        "😘": 8
+      },
+      "total": {
+        "🥺": 78,
+        "💛": 11,
+        "💌": 11
+      }
+    },
+    "people_mentions": {
+      "stacy": 9,
+      "sara": 7,
+      "pau": 5,
+      "parents": 4,
+      "ana_valeria": 4
+    },
+    "special_words": {
+      "beba": 28,
+      "guchta": 1
+    }
+  },
+  "2023-04": {
+    "mora_mentions": 8,
+    "besito_count": 1,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 18,
+        "💛": 4,
+        "🤪": 1
+      },
+      "andrea": {
+        "😘": 12,
+        "🥹": 4,
+        "🥰": 2
+      },
+      "total": {
+        "🥺": 19,
+        "😘": 12,
+        "🥹": 4
+      }
+    },
+    "people_mentions": {
+      "pipia": 9,
+      "ana_valeria": 6,
+      "gabo": 4,
+      "sara": 2,
+      "stacy": 1
+    },
+    "special_words": {
+      "beba": 4
+    }
+  },
+  "2023-05": {
+    "mora_mentions": 6,
+    "besito_count": 4,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 24,
+        "💛": 9,
+        "😭": 7
+      },
+      "andrea": {
+        "🥺": 9,
+        "💗": 6,
+        "🫶": 4
+      },
+      "total": {
+        "🥺": 33,
+        "😭": 9,
+        "💛": 9
+      }
+    },
+    "people_mentions": {
+      "stacy": 15,
+      "miranda": 13,
+      "sara": 9,
+      "pau": 8,
+      "parents": 5
+    },
+    "special_words": {
+      "beba": 23,
+      "proc": 1
+    }
+  },
+  "2023-06": {
+    "mora_mentions": 2,
+    "besito_count": 2,
+    "missing_expressions": 6,
+    "top_emojis": {
+      "luz": {
+        "🥺": 20,
+        "💛": 3,
+        "💕": 3
+      },
+      "andrea": {
+        "💗": 10,
+        "🏻": 5,
+        "👩": 4
+      },
+      "total": {
+        "🥺": 22,
+        "💗": 10,
+        "🏻": 5
+      }
+    },
+    "people_mentions": {
+      "ana_valeria": 12,
+      "leslie": 11,
+      "isa": 11,
+      "pau": 9,
+      "sara": 9
+    },
+    "special_words": {
+      "beba": 26,
+      "guchta": 4,
+      "proc": 1
+    }
+  },
+  "2023-07": {
+    "mora_mentions": 5,
+    "besito_count": 6,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 25,
+        "🤭": 3,
+        "🐣": 2
+      },
+      "andrea": {
+        "🥺": 10,
+        "😭": 8,
+        "💗": 4
+      },
+      "total": {
+        "🥺": 35,
+        "😭": 8,
+        "💗": 4
+      }
+    },
+    "people_mentions": {
+      "sara": 12,
+      "pau": 8,
+      "feli": 7,
+      "isa": 5,
+      "pipia": 4
+    },
+    "special_words": {
+      "beba": 36,
+      "guchta": 1
+    }
+  },
+  "2023-08": {
+    "mora_mentions": 2,
+    "besito_count": 8,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 44,
+        "🤡": 5,
+        "♥": 3
+      },
+      "andrea": {
+        "😂": 3,
+        "🥺": 2,
+        "🥲": 2
+      },
+      "total": {
+        "🥺": 46,
+        "🤡": 5,
+        "🤭": 4
+      }
+    },
+    "people_mentions": {
+      "pau": 5,
+      "ana_valeria": 4,
+      "sara": 3,
+      "gabo": 2,
+      "nara": 1
+    },
+    "special_words": {
+      "beba": 24
+    }
+  },
+  "2023-09": {
+    "mora_mentions": 0,
+    "besito_count": 9,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 7,
+        "❤": 5,
+        "♥": 3
+      },
+      "andrea": {
+        "😂": 7,
+        "🤨": 3,
+        "🥹": 3
+      },
+      "total": {
+        "🥺": 10,
+        "😂": 7,
+        "❤": 5
+      }
+    },
+    "people_mentions": {
+      "emily": 8,
+      "parents": 4,
+      "pau": 2,
+      "miranda": 1,
+      "stacy": 1
+    },
+    "special_words": {
+      "beba": 21,
+      "guchta": 2,
+      "proc": 1
+    }
+  },
+  "2023-10": {
+    "mora_mentions": 3,
+    "besito_count": 6,
+    "missing_expressions": 1,
+    "top_emojis": {
+      "luz": {
+        "🥺": 12,
+        "💗": 7,
+        "🏻": 3
+      },
+      "andrea": {
+        "😭": 14,
+        "🥺": 5,
+        "❤": 3
+      },
+      "total": {
+        "🥺": 17,
+        "😭": 15,
+        "💗": 7
+      }
+    },
+    "people_mentions": {
+      "pau": 4,
+      "emily": 4,
+      "gabo": 3,
+      "parents": 2,
+      "perry": 2
+    },
+    "special_words": {
+      "beba": 11
+    }
+  },
+  "2023-11": {
+    "mora_mentions": 4,
+    "besito_count": 0,
+    "missing_expressions": 9,
+    "top_emojis": {
+      "luz": {
+        "🥺": 39,
+        "💗": 23,
+        "😭": 16
+      },
+      "andrea": {
+        "🥺": 8,
+        "🤍": 3,
+        "🥰": 2
+      },
+      "total": {
+        "🥺": 47,
+        "💗": 23,
+        "😭": 16
+      }
+    },
+    "people_mentions": {
+      "pau": 11,
+      "isa": 9,
+      "parents": 7,
+      "emily": 2,
+      "gabo": 2
+    },
+    "special_words": {
+      "beba": 30,
+      "proc": 1
+    }
+  },
+  "2023-12": {
+    "mora_mentions": 7,
+    "besito_count": 5,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "💗": 29,
+        "🥺": 16,
+        "😭": 11
+      },
+      "andrea": {
+        "😍": 12,
+        "😘": 6,
+        "😭": 6
+      },
+      "total": {
+        "💗": 30,
+        "🥺": 19,
+        "😭": 17
+      }
+    },
+    "people_mentions": {
+      "pau": 11,
+      "stacy": 9,
+      "parents": 6,
+      "emily": 5,
+      "ana_valeria": 3
+    },
+    "special_words": {
+      "beba": 19
+    }
+  },
+  "2024-01": {
+    "mora_mentions": 3,
+    "besito_count": 0,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 9,
+        "😭": 7,
+        "💗": 4
+      },
+      "andrea": {
+        "🙏": 2,
+        "🏼": 2,
+        "📸": 1
+      },
+      "total": {
+        "🥺": 9,
+        "😭": 7,
+        "❤": 4
+      }
+    },
+    "people_mentions": {
+      "pau": 5,
+      "eden": 1,
+      "parents": 1
+    },
+    "special_words": {
+      "beba": 4,
+      "guchta": 1
+    }
+  },
+  "2024-02": {
+    "mora_mentions": 3,
+    "besito_count": 4,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 22,
+        "🤍": 2,
+        "💗": 2
+      },
+      "andrea": {
+        "😍": 5,
+        "😘": 2,
+        "🤍": 2
+      },
+      "total": {
+        "🥺": 23,
+        "😍": 5,
+        "🤍": 4
+      }
+    },
+    "people_mentions": {
+      "emily": 9,
+      "eden": 6,
+      "pau": 3,
+      "stacy": 2,
+      "perry": 2
+    },
+    "special_words": {
+      "beba": 6,
+      "guchta": 5
+    }
+  },
+  "2024-03": {
+    "mora_mentions": 4,
+    "besito_count": 4,
+    "missing_expressions": 13,
+    "top_emojis": {
+      "luz": {
+        "🥺": 77,
+        "😭": 24,
+        "😇": 8
+      },
+      "andrea": {
+        "🥺": 23,
+        "😍": 19,
+        "😭": 9
+      },
+      "total": {
+        "🥺": 100,
+        "😭": 33,
+        "😍": 23
+      }
+    },
+    "people_mentions": {
+      "eden": 12,
+      "stacy": 11,
+      "pau": 9,
+      "ana_valeria": 6,
+      "feli": 6
+    },
+    "special_words": {
+      "beba": 41,
+      "guchta": 2
+    }
+  },
+  "2024-04": {
+    "mora_mentions": 6,
+    "besito_count": 9,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 36,
+        "😭": 9,
+        "🤩": 8
+      },
+      "andrea": {
+        "😅": 10,
+        "😍": 9,
+        "😭": 9
+      },
+      "total": {
+        "🥺": 38,
+        "😭": 18,
+        "😍": 10
+      }
+    },
+    "people_mentions": {
+      "pau": 21,
+      "parents": 7,
+      "eden": 6,
+      "emily": 5,
+      "gabo": 4
+    },
+    "special_words": {
+      "beba": 24,
+      "guchta": 4
+    }
+  },
+  "2024-05": {
+    "mora_mentions": 2,
+    "besito_count": 3,
+    "missing_expressions": 7,
+    "top_emojis": {
+      "luz": {
+        "🥺": 57,
+        "💗": 22,
+        "😭": 9
+      },
+      "andrea": {
+        "🥺": 7,
+        "🥰": 6,
+        "🤍": 6
+      },
+      "total": {
+        "🥺": 64,
+        "💗": 22,
+        "😭": 11
+      }
+    },
+    "people_mentions": {
+      "clay": 29,
+      "gabo": 12,
+      "eden": 9,
+      "pipia": 6,
+      "pau": 5
+    },
+    "special_words": {
+      "beba": 16,
+      "guchta": 4,
+      "proc": 1
+    }
+  },
+  "2024-06": {
+    "mora_mentions": 5,
+    "besito_count": 4,
+    "missing_expressions": 22,
+    "top_emojis": {
+      "luz": {
+        "🥺": 116,
+        "😭": 54,
+        "😇": 15
+      },
+      "andrea": {
+        "🥺": 19,
+        "🥹": 12,
+        "🤤": 9
+      },
+      "total": {
+        "🥺": 135,
+        "😭": 63,
+        "😇": 17
+      }
+    },
+    "people_mentions": {
+      "clay": 93,
+      "pau": 92,
+      "pipia": 25,
+      "leslie": 19,
+      "gabo": 13
+    },
+    "special_words": {
+      "beba": 37,
+      "guchta": 16
+    }
+  },
+  "2024-07": {
+    "mora_mentions": 9,
+    "besito_count": 10,
+    "missing_expressions": 25,
+    "top_emojis": {
+      "luz": {
+        "🥺": 137,
+        "😭": 54,
+        "🤍": 17
+      },
+      "andrea": {
+        "🥺": 24,
+        "🥹": 15,
+        "😭": 5
+      },
+      "total": {
+        "🥺": 161,
+        "😭": 59,
+        "🤍": 22
+      }
+    },
+    "people_mentions": {
+      "clay": 89,
+      "pau": 33,
+      "parents": 20,
+      "gabo": 14,
+      "stacy": 14
+    },
+    "special_words": {
+      "guchta": 15,
+      "beba": 35,
+      "proc": 1
+    }
+  },
+  "2024-08": {
+    "mora_mentions": 8,
+    "besito_count": 2,
+    "missing_expressions": 2,
+    "top_emojis": {
+      "luz": {
+        "🥺": 8,
+        "😭": 6,
+        "😇": 4
+      },
+      "andrea": {
+        "🩵": 4,
+        "🤍": 1,
+        "🦋": 1
+      },
+      "total": {
+        "🥺": 8,
+        "😭": 6,
+        "😇": 4
+      }
+    },
+    "people_mentions": {
+      "clay": 39,
+      "pau": 10,
+      "eden": 9,
+      "sara": 7,
+      "ana_valeria": 6
+    },
+    "special_words": {
+      "beba": 30,
+      "guchta": 3
+    }
+  },
+  "2024-09": {
+    "mora_mentions": 5,
+    "besito_count": 1,
+    "missing_expressions": 3,
+    "top_emojis": {
+      "luz": {
+        "🥺": 10,
+        "😭": 7,
+        "✨": 6
+      },
+      "andrea": {
+        "🥹": 8,
+        "😭": 4,
+        "🥺": 2
+      },
+      "total": {
+        "🥺": 12,
+        "😭": 11,
+        "🥹": 8
+      }
+    },
+    "people_mentions": {
+      "clay": 46,
+      "pau": 14,
+      "eden": 13,
+      "parents": 12,
+      "sara": 9
+    },
+    "special_words": {
+      "beba": 37,
+      "guchta": 5
+    }
+  },
+  "2024-10": {
+    "mora_mentions": 15,
+    "besito_count": 1,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 9,
+        "😭": 9,
+        "♥": 2
+      },
+      "andrea": {
+        "🤍": 4,
+        "🥰": 4,
+        "🩵": 3
+      },
+      "total": {
+        "😭": 10,
+        "🥺": 9,
+        "🤍": 4
+      }
+    },
+    "people_mentions": {
+      "clay": 48,
+      "trinity": 13,
+      "pau": 12,
+      "parents": 12,
+      "eden": 11
+    },
+    "special_words": {
+      "beba": 87,
+      "guchta": 4
+    }
+  },
+  "2024-11": {
+    "mora_mentions": 1,
+    "besito_count": 6,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🥺": 20,
+        "😭": 5,
+        "♥": 4
+      },
+      "andrea": {
+        "😅": 6,
+        "🥺": 4,
+        "😔": 3
+      },
+      "total": {
+        "🥺": 24,
+        "😭": 6,
+        "😅": 6
+      }
+    },
+    "people_mentions": {
+      "clay": 42,
+      "pau": 11,
+      "stacy": 7,
+      "isa": 6,
+      "eden": 6
+    },
+    "special_words": {
+      "beba": 48,
+      "guchta": 3
+    }
+  },
+  "2024-12": {
+    "mora_mentions": 6,
+    "besito_count": 5,
+    "missing_expressions": 1,
+    "top_emojis": {
+      "luz": {
+        "🥺": 26,
+        "😭": 23,
+        "‼": 11
+      },
+      "andrea": {
+        "🤍": 9,
+        "🩵": 4,
+        "😇": 3
+      },
+      "total": {
+        "🥺": 27,
+        "😭": 23,
+        "‼": 11
+      }
+    },
+    "people_mentions": {
+      "pau": 25,
+      "clay": 18,
+      "parents": 17,
+      "isa": 13,
+      "feli": 12
+    },
+    "special_words": {
+      "beba": 54,
+      "guchta": 10,
+      "proc": 1
+    }
+  },
+  "2025-01": {
+    "mora_mentions": 6,
+    "besito_count": 5,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {
+        "🩷": 8,
+        "😭": 8,
+        "🥺": 7
+      },
+      "andrea": {
+        "🤍": 11,
+        "😭": 4,
+        "😔": 3
+      },
+      "total": {
+        "😭": 12,
+        "🤍": 11,
+        "🩷": 8
+      }
+    },
+    "people_mentions": {
+      "clay": 31,
+      "pau": 24,
+      "eden": 19,
+      "sara": 16,
+      "isa": 10
+    },
+    "special_words": {
+      "guchta": 3,
+      "beba": 42
+    }
+  },
+  "2025-02": {
+    "mora_mentions": 1,
+    "besito_count": 0,
+    "missing_expressions": 0,
+    "top_emojis": {
+      "luz": {},
+      "andrea": {},
+      "total": {}
+    },
+    "people_mentions": {
+      "nara": 5,
+      "clay": 2,
+      "pau": 1
+    },
+    "special_words": {
+      "beba": 2
+    }
+  }
+}
