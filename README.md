@@ -1,5 +1,4 @@
 # Relationship Text Visualization
-
 A creative coding project that transforms WhatsApp chat history into an interactive visual story. The project analyzes text patterns, emotional content, and conversation dynamics to create an artistic representation of a relationship's journey through time.
 
 ## Overview
